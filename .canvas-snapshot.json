@@ -4,7 +4,7 @@
     "title": "SQL Quiz",
     "html_url": "https://learning.flatironschool.com/courses/5935/quizzes/31820",
     "mobile_url": "https://learning.flatironschool.com/courses/5935/quizzes/31820?force_user=1&persist_headless=1",
-    "description": "<div id=\"git-data-element\" data-org=\"learn-co-curriculum\" data-repo=\"python-p3-quiz-sql\"></div>\n<header class=\"fis-header\">\n  <a class=\"fis-git-link\" href=\"https://github.com/learn-co-curriculum/python-p3-quiz-sql/issues/new\" target=\"_blank\"><img id=\"issue-img\" title=\"Create New Issue\" alt=\"Create New Issue\"></a>\n</header>\n\n<p>It's time to check your knowledge! Use this quiz to create a custom study guide.\nNote any answers that were marked incorrect, so you can study the relevant\nmaterial and try this quiz again.</p>\n\n<p>If you don't know the answer to a question, please do not guess. Instead, select\n\"I don't know\". It's OK not to know everything and to admit when we're unsure.</p>\n\n<p>.</p>",
+    "description": "<div id=\"git-data-element\" data-org=\"learn-co-curriculum\" data-repo=\"python-p3-quiz-sql\"></div>\n<header class=\"fis-header\">\n  <a class=\"fis-git-link\" href=\"https://github.com/learn-co-curriculum/python-p3-quiz-sql/issues/new\" target=\"_blank\"><img id=\"issue-img\" title=\"Create New Issue\" alt=\"Create New Issue\"></a>\n</header>\n\n<p>It's time to check your knowledge! Use this quiz to create a custom study guide.\nNote any answers that were marked incorrect, so you can study the relevant\nmaterial and try this quiz again.</p>\n\n<p>If you don't know the answer to a question, please do not guess. Instead, select\n\"I don't know\". It's OK not to know everything and to admit when we're unsure.</p>",
     "quiz_type": "assignment",
     "time_limit": null,
     "timer_autosubmit_disabled": false,
@@ -71,7 +71,7 @@
     "only_visible_to_overrides": false,
     "assignment_group_id": 15695,
     "show_correct_answers_last_attempt": true,
-    "version_number": 5,
+    "version_number": 6,
     "has_access_code": false,
     "post_to_sis": false,
     "migration_id": "gd8c093a63454ea38a813fdb13e6c50b8",
@@ -499,7 +499,7 @@
           "html": "<div class=\"highlight\"><pre class=\"highlight sql\"><code><span class=\"k\">SELECT</span>\n</code></pre></div>"
         },
         {
-          "id": 4750,
+          "id": "4750",
           "text": "",
           "comments": "",
           "comments_html": "<p>Be sure to study the source/s for this question. You'll get it next time.</p>",
@@ -603,7 +603,7 @@
           "right": "Easy to run quick commands but no graphical representation of the data",
           "comments": "",
           "comments_html": "",
-          "match_id": 1572
+          "match_id": 2741
         },
         {
           "id": "2448",
@@ -612,7 +612,7 @@
           "right": "Easy to access and easy to see a graphical representation of the data, but can't run SQL commands",
           "comments": "",
           "comments_html": "",
-          "match_id": 4942
+          "match_id": 994
         },
         {
           "id": "6502",
@@ -621,7 +621,7 @@
           "right": "Can run SQL commands and can see a graphical representation of the data, but more work to access",
           "comments": "",
           "comments_html": "",
-          "match_id": 769
+          "match_id": 671
         }
       ],
       "variables": null,
@@ -631,15 +631,15 @@
       "matches": [
         {
           "text": "Easy to run quick commands but no graphical representation of the data",
-          "match_id": 1572
+          "match_id": 2741
         },
         {
           "text": "Easy to access and easy to see a graphical representation of the data, but can't run SQL commands",
-          "match_id": 4942
+          "match_id": 994
         },
         {
           "text": "Can run SQL commands and can see a graphical representation of the data, but more work to access",
-          "match_id": 769
+          "match_id": 671
         }
       ],
       "matching_answer_incorrect_matches": ""
