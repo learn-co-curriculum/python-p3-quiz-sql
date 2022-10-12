@@ -1,7 +1,7 @@
 ---
 id: 31820
 course_id: 5935
-repo: phase-3-quiz-sql
+repo: python-p3-quiz-sql
 ---
 
 # SQL Quiz
