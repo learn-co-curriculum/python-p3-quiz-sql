@@ -1,6 +1,6 @@
 ---
-id: 31820
-course_id: 5935
+id: 53506
+course_id: 7559
 repo: python-p3-quiz-sql
 ---
 
